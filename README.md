@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">CSE Student at premier university.</h2>
+<h2 align="center">CSE Student at Premier University.</h2>
 
 ###
 
