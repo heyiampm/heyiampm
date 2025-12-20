@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">I’m a BSc in CSE ,Computer Science And Engineering student at Premier University, passionate about writing clean, efficient code and building projects that solve real-world problems. I enjoy working with Python and constantly explore new libraries and frameworks to deepen my programming knowledge.</h4>
+<h3 align="left">I’m a BSc in CSE ,Computer Science And Engineering student at Premier University, passionate about writing clean, efficient code and building projects that solve real-world problems. I enjoy working with Python and constantly explore new libraries and frameworks to deepen my programming knowledge.</h3>
 
 ###
 
-<p align="left">📚 I'm currently learning : Data Structures and Algorithms.<br>🎯 Goals : Software Engineer.<br>🎲 Fun fact : I Love Coding</p>
+<h4 align="left">📚 I'm currently learning : Data Structures and Algorithms.<br>🎯 Goals : Software Engineer.<br>🎲 Fun fact : I Love Coding</h4>
 
 ###
 
