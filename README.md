@@ -36,7 +36,7 @@
 ###
 <p align="left"> <a href="https://twitter.com/@pmpranta" target="blank"><img src="https://img.shields.io/twitter/follow/@pmpranta?logo=twitter&style=for-the-badge" alt="@pmpranta" /></a> </p>
 
- <h5📫 How to reach me</h5> **heyiampm@gmail.com**
+ 📫 How to reach me **heyiampm@gmail.com**
 
 
 
