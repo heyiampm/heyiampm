@@ -1,19 +1,17 @@
-<!-- Animated Header Banner -->
+<!-- Ultra-Bright & Attractive Animated Gradient Header Banner with White Text -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=200&section=header&text=Hi%20I'm%20Pranta%20Mohajan!&fontSize=45&fontAlignY=35&desc=Python%20%7C%20Data%20Science%20%7C%20Data%20Analysis%20%7C%20Problem%20Solver&descSize=20&descAlignY=55&animation=fadeIn&textColor=FFFFFF&descColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Hi%20I'm%20Pranta%20Mohajan!&desc=Python%20%7C%20Data%20Science%20%7C%20Data%20Analysis%20%7C%20Problem%20Solver&fontSize=50&descSize=26&fontAlignY=50&descAlignY=90&animation=fadeIn&color=0:FF6B6B,20:FFB347,40:FFD93D,60:4BE1EC,80:6A82FB,100:33FFDD&textColor=FFFFFF&descColor=FFFFFF&stroke=1&strokeColor=000000" />
 </p>
 
-<!-- Welcome Typing Animation -->
+<!-- Welcome Typing Animation in Bright Blue -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00E5FF&lines=Welcome+to+My+GitHub+Profile!+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=700&height=80&duration=4000&color=00E5FF&lines=Welcome+to+My+GitHub+Profile!+👋" />
 </h1>
 
-<!-- Role / University -->
-<h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=🎓%20CSE%20Student%20at%20Premier%20University%20🎓&fontSize=28&fontAlignY=35&animation=fadeIn&color=FFFFFF" />
+<!-- Role / University Static White Text -->
+<h2 align="center" style="color:white;">
+  🎓 BSc in CSE at Premier University 🎓
 </h2>
-
----
 
 ### 👋 About Me
 <h3 align="left">
@@ -39,9 +37,10 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /> &nbsp;
 </div>
 
+---
+
 ### 🛠 Languages & Tools
 <p align="left">
-  <!-- Basic -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" /> &nbsp;
@@ -71,7 +70,6 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
 </p>
 
 ---
-
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://twitter.com/@pmpranta" target="_blank">
@@ -80,4 +78,15 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
   <a href="mailto:heyiampm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-heyiampm@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://www.facebook.com/pranta.mahajana" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Pranta%20Mohajan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/prantapm/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Pranta%20PM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/pmpranta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranta%20Mohajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+>
+
