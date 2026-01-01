@@ -88,5 +88,3 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
     <img src="https://img.shields.io/badge/LinkedIn-Pranta%20Mohajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
->
-
