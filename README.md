@@ -47,16 +47,20 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
 ---
 
 ### 🛠 Languages & Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" /> &nbsp;
+  <img src="https://logo.svgcdn.com/devicon/react-original.svg" height="40" width="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" />
 </p>
+
 
 ---
 
@@ -82,7 +86,7 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
 
 
 <!-- Web Framework -->
-<h3 align="left">Web Framework</h3>
+<h3 align="left">🌍 Web Framework</h3>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" /> &nbsp;
