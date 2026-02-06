@@ -35,7 +35,14 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /> &nbsp;
+  <img src="https://img.icons8.com/color/512/code-blocks.png" height="40" />&nbsp;
+ 
+
+  <!-- Code::Blocks -->
+ 
+
 </div>
+
 
 ---
 
@@ -65,9 +72,23 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
 
 ### 🤖 Deep Learning / ML
 <p align="left">
+  <!-- Deep Learning -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" /> &nbsp;
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" height="40" /> &nbsp; -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" />
 </p>
+
+
+<!-- Web Framework -->
+<h3 align="left">Web Framework</h3>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40" />
+</p>
+
 
 ---
 ### 🌐 Connect with Me
