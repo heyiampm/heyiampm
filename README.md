@@ -23,7 +23,7 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
 ### 🎯 Currently Learning & Goals
 <h4 align="left">
 📚 Currently learning: Data Structures and Algorithms<br>
-🎯 Goal: Software Engineer<br>
+🎯 Goal: ML Engineer<br>
 🎲 Fun Fact: I love coding
 </h4>
 
