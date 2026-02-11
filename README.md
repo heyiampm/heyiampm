@@ -8,6 +8,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=700&height=80&duration=4000&color=00E5FF&lines=Welcome+to+My+GitHub+Profile!+👋" />
 </h1>
 
+
+<a href="https://pranta-mohajan.vercel.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/9510eae0-54b1-43fb-bb9e-4b6705715ae3" alt="Pranta Portfolio" width="100%">
+</a>
+
+
+
+
+
+
+
+
+
+
 <!-- Role / University Static White Text -->
 <h2 align="center" style="color:white;">
   🎓 BSc in CSE at Premier University 🎓
