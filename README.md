@@ -74,14 +74,21 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
 
 ---
 
-### 🤖 Deep Learning / ML
+### 🤖 Machine Learning
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40" /> &nbsp;
+  
+</p>
+
+### 🧠 Deep Learning
 <p align="left">
   <!-- Deep Learning -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" /> &nbsp;
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" height="40" /> &nbsp; -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" />
+
+
 </p>
 
 
