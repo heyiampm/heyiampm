@@ -134,3 +134,9 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
     <img src="https://img.shields.io/badge/LinkedIn-Pranta%20Mohajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+
+<!-- Welcome & Thank You Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=800&height=100&duration=4000&color=FF5733&lines=Thanks+for+visiting+my+profile!+😊" alt="Typing Animation" />
+</h1>
