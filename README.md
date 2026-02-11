@@ -46,21 +46,23 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Languages
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" /> &nbsp;
-  <img src="https://logo.svgcdn.com/devicon/react-original.svg" height="40" width="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" /> 
+
+</p>
+
+---
+### ⚙️ Tools
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" />
 </p>
-
 
 ---
 
@@ -81,6 +83,8 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
   
 </p>
 
+---
+
 ### 🧠 Deep Learning
 <p align="left">
   <!-- Deep Learning -->
@@ -88,10 +92,20 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" /> &nbsp;
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" height="40" /> &nbsp; -->
 
+</p>
+
+---
+### 🌐 Front‑End Web Development
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" /> &nbsp;
+<img src="https://logo.svgcdn.com/devicon/react-original.svg" height="40" width="40" alt="React Logo" /> &nbsp;
+<img src="https://logo.svgcdn.com/devicon/tailwindcss-original.svg" height="40" width="40" alt="Tailwind CSS Logo" />
+
 
 </p>
 
-
+---
 <!-- Web Framework -->
 <h3 align="left">🌍 Web Framework</h3>
 
@@ -102,7 +116,7 @@ I’m a BSc in CSE student at Premier University, passionate about writing clean
 
 
 ---
-### 🌐 Connect with Me
+### 🤝 Connect with Me
 <p align="left">
   <a href="https://twitter.com/@pmpranta" target="_blank">
     <img src="https://img.shields.io/twitter/follow/@pmpranta?logo=twitter&style=for-the-badge" alt="@pmpranta" />
