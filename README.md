@@ -1,7 +1,7 @@
 <!-- Ultra-Bright & Attractive Animated Gradient Header Banner with White Text -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Hi%20I'm%20Pranta%20Mohajan!&desc=Python%20%7C%20Data%20Science%20%7C%20Data%20Analysis%20%7C%20Problem%20Solver&fontSize=50&descSize=26&fontAlignY=50&descAlignY=90&animation=fadeIn&color=0:FF6B6B,20:FFB347,40:FFD93D,60:4BE1EC,80:6A82FB,100:33FFDD&textColor=FFFFFF&descColor=FFFFFF&stroke=1&strokeColor=000000" />
-</p>
+</p> -->
 
 <!-- Welcome Typing Animation in Bright Blue -->
 <h1 align="center">
