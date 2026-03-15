@@ -1,156 +1,142 @@
-<!-- Ultra-Bright & Attractive Animated Gradient Header Banner with White Text -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Hi%20I'm%20Pranta%20Mohajan!&desc=Python%20%7C%20Data%20Science%20%7C%20Data%20Analysis%20%7C%20Problem%20Solver&fontSize=50&descSize=26&fontAlignY=50&descAlignY=90&animation=fadeIn&color=0:FF6B6B,20:FFB347,40:FFD93D,60:4BE1EC,80:6A82FB,100:33FFDD&textColor=FFFFFF&descColor=FFFFFF&stroke=1&strokeColor=000000" />
-</p> -->
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Pranta%20Mohajan&fontAlign=50&fontAlignY=40&color=0:00E5FF,100:6A82FB&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-<!-- Welcome Typing Animation in Bright Blue -->
+<!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=700&height=80&duration=4000&color=00E5FF&lines=Welcome+to+My+GitHub+Profile!+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=00E5FF&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Data+Science+Enthusiast;Future+ML+Engineer" />
 </h1>
 
+---
 
-<!-- <a href="https://pranta-mohajan.vercel.app/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/9510eae0-54b1-43fb-bb9e-4b6705715ae3" alt="Pranta Portfolio" width="100%">
+# 👋 About Me
+🎓 **BSc in CSE – Premier University**  
+💻 Passionate about **Python, Data Science & Machine Learning**  
+🚀 I enjoy building projects that solve **real-world problems**
+
+---
+
+# 🎯 Current Focus
+📚 Learning **Data Structures & Algorithms**  
+🎯 Goal: **Machine Learning Engineer**  
+💡 Fun Fact: I love building projects with Python
+
+---
+
+# 💻 I Code With
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/> &nbsp;
+<img src="https://img.icons8.com/color/512/code-blocks.png" height="40"/>
+</p>
+
+---
+
+# 🛠 Languages
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+</p>
+
+---
+
+# ⚙️ Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
+</p>
+
+---
+
+# 📊 Data Science
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40"/> &nbsp;
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+</p>
+
+---
+
+# 🤖 Machine Learning
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+</p>
+
+---
+
+# 🧠 Deep Learning
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/>
+</p>
+
+---
+
+# 🌐 Front-End
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40"/> &nbsp;
+<img src="https://logo.svgcdn.com/devicon/react-original.svg" height="40"/> &nbsp;
+<img src="https://logo.svgcdn.com/devicon/tailwindcss-original.svg" height="40"/>
+</p>
+
+---
+
+# 🌍 Web Framework
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=heyiampm&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heyiampm&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyiampm&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+<p align="left">
+
+<a href="https://twitter.com/@pmpranta">
+<img src="https://img.shields.io/twitter/follow/@pmpranta?logo=twitter&style=for-the-badge"/>
 </a>
- -->
 
+<a href="mailto:heyiampm@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-heyiampm@gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
 
+<a href="https://www.facebook.com/pranta.mahajana">
+<img src="https://img.shields.io/badge/Facebook-Pranta%20Mohajan-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
 
+<a href="https://www.instagram.com/prantapm/">
+<img src="https://img.shields.io/badge/Instagram-Pranta%20PM-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
 
-
-
-
-
-
-<!-- Role / University Static White Text -->
-<h2 align="center" style="color:white;">
-  🎓 BSc in CSE at Premier University 🎓
-</h2>
-
-### 👋 About Me
-<h3 align="left">
-I’m a BSc in CSE student at Premier University, passionate about writing clean, efficient code and building projects that solve real-world problems. I enjoy working with Python, Data Science, and constantly explore new libraries and frameworks to deepen my programming knowledge.
-</h3>
-
----
-
-### 🎯 Currently Learning & Goals
-<h4 align="left">
-📚 Currently learning: Data Structures and Algorithms<br>
-🎯 Goal: ML Engineer<br>
-🎲 Fun Fact: I love coding
-</h4>
-
----
-
-### 💻 I Code With
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /> &nbsp;
-  <img src="https://img.icons8.com/color/512/code-blocks.png" height="40" />&nbsp;
- 
-
-  <!-- Code::Blocks -->
- 
-
-</div>
-
-
----
-
-### 🛠 Languages
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" /> 
+<a href="https://www.linkedin.com/in/pmpranta/">
+<img src="https://img.shields.io/badge/LinkedIn-Pranta%20Mohajan-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </p>
 
 ---
-### ⚙️ Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" />
-</p>
 
----
-
-### 📊 Data Science & Visualization
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40" /> &nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" />
-</p>
-
----
-
-### 🤖 Machine Learning
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40" /> &nbsp;
-  
-</p>
-
----
-
-### 🧠 Deep Learning
-<p align="left">
-  <!-- Deep Learning -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" /> &nbsp;
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" height="40" /> &nbsp; -->
-
-</p>
-
----
-### 🌐 Front‑End Web Development
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" /> &nbsp;
-<img src="https://logo.svgcdn.com/devicon/react-original.svg" height="40" width="40" alt="React Logo" /> &nbsp;
-<img src="https://logo.svgcdn.com/devicon/tailwindcss-original.svg" height="40" width="40" alt="Tailwind CSS Logo" />
-
-
-</p>
-
----
-<!-- Web Framework -->
-<h3 align="left">🌍 Web Framework</h3>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40" />
-</p>
-
-
----
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/@pmpranta" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/@pmpranta?logo=twitter&style=for-the-badge" alt="@pmpranta" />
-  </a>
-  <a href="mailto:heyiampm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-heyiampm@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/pranta.mahajana" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Pranta%20Mohajan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/prantapm/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Pranta%20PM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/pmpranta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranta%20Mohajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-
-<!-- Welcome & Thank You Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=800&height=100&duration=4000&color=FF5733&lines=Thanks+for+visiting+my+profile!+😊" alt="Typing Animation" />
-</h1>
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
