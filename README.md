@@ -13,14 +13,41 @@
 
 # 🛠 Technical Skills
 
+<div align="center">
+
 ### 🚀 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</p>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>
+<b></b>
+</td>
+
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>
+<b></b>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65"/><br>
+<b></b>
+</td>
+
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>
+<b></b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="65" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)"/><br>
+<b></b>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ### 🤖 Machine Learning & Data Science
 <p align="left">
