@@ -158,7 +158,7 @@
 
    <td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-    <b>Github</b>
+    <b>GitHub</b>
   </td>
 
 <td align="center" width="120">
