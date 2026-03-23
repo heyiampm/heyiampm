@@ -74,11 +74,16 @@
 
 </p>
 
+
 <div align="center">
+
+<h2>🚀 Explore My Projects</h2>
+
 <a href="https://www.youtube.com/@pranta_codes">
   <img src="https://img.shields.io/badge/YouTube-Pranta_Codes-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" />
 </a>
+
 </div>
 
 
-<h2 align="center">⭐ Thanks for visiting!</h2>
+<h3 align="center">⭐ Thanks for visiting!</h3>
