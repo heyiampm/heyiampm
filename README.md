@@ -56,11 +56,11 @@
 <table>
 <tr>
 
-   <td align="center" width="150">
+   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy"/>
      <br><b>NumPy</b>
   </td>
-  <td align="center" width="150">
+  <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas"/>
      <br><b>Pandas</b>
    </td>
