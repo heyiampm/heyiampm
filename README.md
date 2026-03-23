@@ -62,15 +62,23 @@
 <a href="https://www.linkedin.com/in/pmpranta/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@pranta_codes">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
 <a href="mailto:heyiampm@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/pranta.mahajana">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+  <a href="https://www.instagram.com/pmpranta_mohajan/">
+  <img src="https://img.shields.io/badge/Instagram-Pranta_Mohajan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
 
-<h3 align="center">⭐ Thanks for visiting!</h3>
+<div align="center">
+<a href="https://www.youtube.com/@pranta_codes">
+  <img src="https://img.shields.io/badge/YouTube-Pranta_Codes-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" />
+</a>
+</div>
+
+
+<h2 align="center">⭐ Thanks for visiting!</h2>
