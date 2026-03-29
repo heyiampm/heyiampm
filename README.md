@@ -7,7 +7,8 @@
 * 🎓 **BSc in Computer Science & Engineering** – Premier University
 * 💻 Passionate about **Python, Data Science & Machine Learning**
 * 🚀 Focused on building scalable solutions for **real-world problems**
-* 📚 Currently mastering **Data Structures & Algorithms**
+* 📚 Currently mastering **Data Structures & Algorithms (DSA)** to sharpen problem-solving skills
+* 🔍 Actively exploring **Python libraries** to enhance development and data analysis capabilities
 
 ---
 
@@ -178,7 +179,7 @@
 
 <td align="center" width="120">
 <img src="https://img.icons8.com/color/512/code-blocks.png" width="65"/><br>
-<b>Code</b>
+<b>CodeBlocks</b>
 </td>
 
 </tr>
