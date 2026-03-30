@@ -198,7 +198,7 @@
   <a href="mailto:heyiampm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.facebook.com/pranta.mahajana" target="_blank">
+  <a href="https://www.facebook.com/pm.pranta.mahajan" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/pmpranta_mohajan/" target="_blank">
