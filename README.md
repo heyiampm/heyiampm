@@ -4,7 +4,7 @@
 </h1>
 
 # 👋 About Me
-* 🎓 **BSc in Computer Science & Engineering** – Premier University
+* 🎓 **BSc in Computer Science & Engineering** – Premier University (Chittagoang,Bangladesh)
 * 💻 Passionate about **Python, Data Science & Machine Learning**
 * 🚀 Focused on building scalable solutions for **real-world problems**
 * 📚 Currently mastering **Data Structures & Algorithms (DSA)** to sharpen problem-solving skills
