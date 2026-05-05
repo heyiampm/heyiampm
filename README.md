@@ -204,7 +204,7 @@
   <a href="https://www.instagram.com/prantamohajan.PM/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://x.com/prantamohajanX" target="_blank">
+  <a href="https://x.com/PrantamohajanPM" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
@@ -213,7 +213,7 @@
 <div align="center">
   <h2>🚀 Explore My Projects</h2>
   <p>Check out my technical tutorials and DIY electronics projects!</p>
-  <a href="https://www.youtube.com/@pranta_codes" target="_blank">
+  <a href="https://www.youtube.com/@pranta_mohajan" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
